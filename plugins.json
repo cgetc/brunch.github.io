@@ -388,6 +388,12 @@
       "description": "adds <a href=\"http://jashkenas.github.com/docco/\">Docco</a> documentation generator for your <code>app/</code> directory."
     },
     {
+      "name": "kss-brunch",
+      "url": "cgetc/kss-brunch",
+      "category": "Others",
+      "description": "adds <a href=\"https://github.com/kss-node/kss-node\">kss-node</a> documentation generator for your <code>app/</code> directory."
+    },
+    {
       "name": "JSDoc-brunch",
       "url": "MazeMap/jsdoc-brunch",
       "category": "Others",
